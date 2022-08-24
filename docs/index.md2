@@ -1,0 +1,36 @@
+Name: Katie Latimer
+Date: August 23, 2022
+Course: IT FDN 130 A Sum 22: Foundations of Databases & SQL Programming
+Assignment 07- Functions
+Github: https://github.com/latimerkn/DBFoundations-Module07.git 
+
+					Functions Galore!
+
+Introduction
+
+In this assignment we got to explore and play with a few different functions, 
+and create one user defined function.
+
+SQL UDF
+
+User Defined Functions (UDF) are used when you need to create something tailored to your end users. 
+For example, if you want to perform a calculation on data, you can create a user defined function to 
+run the calculation on the selected data and return the results to the user in a simplified version, 
+versus the user trying to truck through all the different functions and code to yield the same results.
+
+Scalar, Inline, Multi-Statement Functions OH MY!
+
+Scalar functions take multiple pieces of data or parameters to return a single value. The inline function 
+is handy because it can help reduce the number of times you have to rewrite your code by simplifying things.
+It allows you to group multiple statements together. Multi-statement function sounds like it would be the 
+same however it is a table focused function. With the multi-statement function you can execute multiple queries, 
+and then combine those results into a table, thus condensing the data into a single result.
+
+Summary
+
+Dare I say I had a little fun with this one. I think I finally learned with this assignment what a misplaced 
+parentheses can do to your code. Must give special credit to my husband who found my extra parentheses after 
+I spent 30 mins trying to figure out why my code wasn’t running. It also gave me a different perspective on layout.
+I see a couple of classmates have beautiful linear layouts and I like the look, but I felt it took up too much space, 
+but after my parentheses fiasco I can appreciate how much easier it would have been to find if my code was better 
+spaced and more linear.
